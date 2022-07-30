@@ -39,7 +39,8 @@ The purpose of this analysis was to help Alphabet Soup - a charitable foundation
 
     Density Plot classification_count
     <img src="/Resources/classification_density_plot.png" >
-    
+
+
  - Used the density plot to create a cutoff point to bin "rare" categorical variables together in a new column, Other, and then checked if the binning was successful.
 
     Binned name_count (Model 2 only)
